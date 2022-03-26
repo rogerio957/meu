@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tvg=1
+https://h3.ustvgo.la/Cinemax/myStream/chunks.m3u8?nimblesessionid=185862627&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDE6NDM6NTUgUE0maGFzaF92YWx1ZT1KcDZleitzYzBOUzhobGpXbGUwOEJnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=2
+https://h1.ustvgo.la/Animal/myStream/chunks.m3u8?nimblesessionid=219931588&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDE6NDU6MTAgUE0maGFzaF92YWx1ZT1ZcWxFcG9lTWhseXM2cytNSFZlNnNnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=3
+https://h1.ustvgo.la/CMT/myStream/chunks.m3u8?nimblesessionid=219932756&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDE6NDU6NTMgUE0maGFzaF92YWx1ZT1ITGxZdTVMa2NFdGFrMWNuVE4wUk9BPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=4
+https://h2.ustvgo.la/Comedy/myStream/chunks.m3u8?nimblesessionid=191822322&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDE6NDY6MzcgUE0maGFzaF92YWx1ZT1sOXMzTStvQnJmQUpkaDN1d2docnBBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=5
+https://h3.ustvgo.la/FXMovie/myStream/chunks.m3u8?nimblesessionid=185863580&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDE6NDc6MjcgUE0maGFzaF92YWx1ZT1USmpSM0dyVkpXZEx0S1hiWDRaMStRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=6
+https://h5.ustvgo.la/BBCAmerica/myStream/chunks.m3u8?nimblesessionid=82900921&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDE6NDg6NDAgUE0maGFzaF92YWx1ZT14S2dIVjRMUEY0Q24yMVVUK1JoNnVRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=7
+https://h4.ustvgo.la/Boomerang/myStream/chunks.m3u8?nimblesessionid=185385536&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDE6NDk6MTYgUE0maGFzaF92YWx1ZT1PUmYveEFyVWRXWmRIUnZVS0gvaHFBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=8
+https://h1.ustvgo.la/CN/myStream/chunks.m3u8?nimblesessionid=219933376&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDE6NTA6MDkgUE0maGFzaF92YWx1ZT03QzlUYUIvQTRpQ1I2WjhQaG92VkhnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=9
+https://h1.ustvgo.la/WWE/myStream/chunks.m3u8?nimblesessionid=219934985&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDE6NTA6NTMgUE0maGFzaF92YWx1ZT1sNU1KYTVCai9aWUVTMlBSbENjZU1BPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=10
+https://h2.ustvgo.la/Science/myStream/chunks.m3u8?nimblesessionid=191824047&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDE6NTE6MzAgUE0maGFzaF92YWx1ZT1NUlN3UDNXNXRSRHk2dVI4UERsNkNBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=11
+https://h3.ustvgo.la/Hallmark/myStream/chunks.m3u8?nimblesessionid=185864918&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDE6NTI6MDkgUE0maGFzaF92YWx1ZT0zdlRVaXVvbkxiSjIySnRZM2xSRUd3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=12
+https://h3.ustvgo.la/CNN/myStream/chunks.m3u8?nimblesessionid=185866202&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDE6NTI6NTUgUE0maGFzaF92YWx1ZT1mMmxBamNqdjgrQXhoaUh6UTZEZEZBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=13
+https://h4.ustvgo.la/FoxNews/myStream/chunks.m3u8?nimblesessionid=185388422&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDE6NTQ6MzggUE0maGFzaF92YWx1ZT1FbkhyVGNoZDlkVWJ3ZUxKQWsxVDFnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=14
+https://h2.ustvgo.la/Science/myStream/chunks.m3u8?nimblesessionid=191826231&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDE6NTU6NDEgUE0maGFzaF92YWx1ZT1ScUEyalY1NFdMenFNVms1Y3lyZG1BPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=15
+https://h1.ustvgo.la/LifetimeM/myStream/chunks.m3u8?nimblesessionid=219935925&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDE6NTY6MTYgUE0maGFzaF92YWx1ZT1nUmVqTzUxYmdlWlBGUW9GMUg1T3pRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=16
+https://h3.ustvgo.la/FXMovie/myStream/chunks.m3u8?nimblesessionid=185867033&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDE6NTc6MTQgUE0maGFzaF92YWx1ZT1GZmdwWHB0VU5NMGdKSEk5d2lMRGlnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=17
+https://h5.ustvgo.la/SYFY/myStream/chunks.m3u8?nimblesessionid=82906473&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDE6NTg6MzEgUE0maGFzaF92YWx1ZT1UcytQOHdzK3dIbFdGNkFEVm9nQmtBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=18
+https://h4.ustvgo.la/FS2/myStream/chunks.m3u8?nimblesessionid=185389439&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDE6NTk6MTAgUE0maGFzaF92YWx1ZT1ZM1dZQVRGVlU3ZiszQWJSNSt1T2VRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=19
+https://h2.ustvgo.la/BTN/myStream/chunks.m3u8?nimblesessionid=191827734&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDI6MDA6MjkgUE0maGFzaF92YWx1ZT1xdmNhVmllZmZhYldlS0l5aElXdVFBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=20
+https://h1.ustvgo.la/SundanceTV/myStream/chunks.m3u8?nimblesessionid=219937578&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDI6MDE6MDYgUE0maGFzaF92YWx1ZT1jVllwY3gwdkxJQk9ibExnWEU4MmxBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=21
+https://h1.ustvgo.la/StarZ/myStream/chunks.m3u8?nimblesessionid=219938697&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDI6MDE6NDggUE0maGFzaF92YWx1ZT1uRWRxYkdxa0xUem5lSWtMVGFKYmZ3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=22
+https://h3.ustvgo.la/WETV/myStream/chunks.m3u8?nimblesessionid=185869761&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDI6MDI6NDYgUE0maGFzaF92YWx1ZT01bGErWEJ5WklwYm92bElPczV6a2pnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=23
+https://h5.ustvgo.la/SECN/myStream/chunks.m3u8?nimblesessionid=82910230&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDI6MDM6NTIgUE0maGFzaF92YWx1ZT1tRkwrZGY5eU15WDkyK25ZbktKVkVRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="tvg=24
+https://h1.ustvgo.la/TruTV/myStream/chunks.m3u8?nimblesessionid=219939792&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDI6MDY6MjYgUE0maGFzaF92YWx1ZT1rcFJmVVlGcHRWbmRWN215NS9BRGdRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+
+
+
